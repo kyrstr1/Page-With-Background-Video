@@ -1,0 +1,12 @@
+/* Responsive */
+
+@media screen and (max-width: 1200px){
+    .description{
+        position: absolute;
+        width: 91vw;
+        bottom: 0;
+        border-radius: 20px 20px 0 0;
+        margin: auto;
+        padding: 0.5rem 1.4rem;
+    }
+}
